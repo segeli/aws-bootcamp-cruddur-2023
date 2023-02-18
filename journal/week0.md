@@ -22,3 +22,19 @@
 <p align="left">
  <img src="assets/billing_alarm.png?raw=true" alt="Billing Alarm" width="80%" height="80%" />
 </p>
+
+## Lucidcharts
+- Created Conceptual Diagram
+
+<p align="left">
+ <img src="assets/Cruddur - Conceptual Diagram.png?raw=true" alt="Billing Alarm" width="80%" height="80%" />
+
+ [View on Lucid.app](https://lucid.app/documents/view/d53d0b53-6e3b-4a16-a749-2b4360fc36fd)
+</p>
+
+- Created Logical Diagram
+<p align="left">
+ <img src="assets/Cruddur - Logical Diagram.png?raw=true" alt="Billing Alarm" width="80%" height="80%" />
+
+[View on Lucid.app](https://lucid.app/documents/view/e33aa024-a0d6-437c-aefb-d4040125bc5c)
+</p>
