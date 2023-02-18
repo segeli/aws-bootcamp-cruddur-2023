@@ -18,23 +18,29 @@
 <p align="left">
  <img src="assets/budget_alarm.png?raw=true" alt="Budget Alarm" width="80%" height="80%" />
 </p>
+
 - Created Billing Alarm
 <p align="left">
  <img src="assets/billing_alarm.png?raw=true" alt="Billing Alarm" width="80%" height="80%" />
+</p>
+
+- Used CloudShell
+<p align="left">
+ <img src="assets/aws-cloudshell.png?raw=true" alt="AWS CloudShell" width="80%" height="80%" />
 </p>
 
 ## Lucidcharts
 - Created Conceptual Diagram
 
 <p align="left">
- <img src="assets/Cruddur - Conceptual Diagram.png?raw=true" alt="Billing Alarm" width="80%" height="80%" />
+ <img src="assets/Cruddur - Conceptual Diagram.png?raw=true" alt="Cruddur - Conceptual Diagram" width="80%" height="80%" />
 
  [View on Lucid.app](https://lucid.app/documents/view/d53d0b53-6e3b-4a16-a749-2b4360fc36fd)
 </p>
 
 - Created Logical Diagram
 <p align="left">
- <img src="assets/Cruddur - Logical Diagram.png?raw=true" alt="Billing Alarm" width="80%" height="80%" />
+ <img src="assets/Cruddur - Logical Diagram.png?raw=true" alt="Cruddur - Logical Diagram" width="80%" height="80%" />
 
 [View on Lucid.app](https://lucid.app/documents/view/e33aa024-a0d6-437c-aefb-d4040125bc5c)
 </p>
