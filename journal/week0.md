@@ -8,7 +8,8 @@
 ## Gitpod
 - Registered
 - Installed Browser Extension to navigate gitpod from github
-- Open "aws-bootcamp-cruddur-2023" on Gitpod
+- Opened "aws-bootcamp-cruddur-2023" on Gitpod
+- Fixed "Permission to segeli/aws-bootcamp-cruddur-2023.git denied to segeli" after adding "public_repo" permissions for github integration provider.
 
 ## AWS
 - Login to existing AWS Account
